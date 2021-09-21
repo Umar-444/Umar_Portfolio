@@ -1,0 +1,21 @@
+             
+
+
+
+
+
+
+                      /^^^^^      PROJECT START      ^^^^^\
+
+
+                 DASHBOARD_______!!
+           
+                 1_Rename the file in php extansion...
+                 2_Set the Login Form in your Dashboard..
+                 3_create a table in database for login ( User name  , Password )..
+                 4_Set the Security on your Login PHP Code.. 
+                 5_
+                 6_
+                 7_
+                 8_
+                 9_              
